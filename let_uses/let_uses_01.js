@@ -1,3 +1,5 @@
+/*jshint esversion: 6 */
+
 /**
  * Ejemplos de uso de Let:
  * - Reemplazar var en bucles for

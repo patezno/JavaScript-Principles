@@ -1,3 +1,5 @@
+/*jshint esversion: 6 */
+
 /**
  * "Variables declaradas por let tienen por alcance el bloque
  * en el que se han definido, así mismo, como en cualquier bloque interno. 
